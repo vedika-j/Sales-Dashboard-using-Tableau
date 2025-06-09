@@ -70,6 +70,7 @@ It highlights:
 
 Overall, the insights support data-driven decisions in category management, pricing strategy, and marketing timing to drive both revenue and sustainable profit.
 
+Sales Dashboard - https://public.tableau.com/views/Salesdashboard_17494762722150/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
